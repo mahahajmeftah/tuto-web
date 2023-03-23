@@ -1,4 +1,4 @@
-console.log("ok bb");
+console.log("ok");
 let employees = [
   ['John', 'Doe', 2500, 'Marketing', 'john.doe@example.com'],
   ['Maha', 'Hmf', 4000, 'Marketing', 'maha.hmf@example.com'],
